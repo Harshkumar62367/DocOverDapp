@@ -3,15 +3,19 @@ sidebar_position: 1
 slug: /
 ---
 
-# PROTOCOL_NAME_PLACEHOLDER Documentation
+# Twitter Dapp Documentation
 
-PROTOCOL_DESCRIPTION_PLACEHOLDER
+A Social Twitter Dapp
+
+
 This website was generated with [Bonadocs](https://bonadocs.com/) using Docusaurus. It includes your smart contract
 documentation with interactive widgets to help developers get started integrating quickly.
 
 ## Contract Deployment Addresses
 
-DEPLOYMENT_ADDRESSES_PLACEHOLDER
+| Contract Name | Arbitrum |
+| -------------- | -------------- |
+| TwitterDapp | 0xfE04242563E3570B0902174aa6A23F0912Fa1aA2 |
 
 ## Start your site
 
